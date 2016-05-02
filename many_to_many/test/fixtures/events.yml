@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  date: 2016-05-02 14:06:35
+  ticket_price: 9.99
+
+two:
+  title: MyString
+  date: 2016-05-02 14:06:35
+  ticket_price: 9.99
