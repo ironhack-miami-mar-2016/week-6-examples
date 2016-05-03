@@ -1,12 +1,5 @@
 Rails.application.routes.draw do
   devise_for :users
-
-  get "/", to: "site#index"
-
-  # Logged-in users only
-  get "/secret", to: "site#secret"
-  get "/other_super_secret", to: "site#other_super_secret"
-
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
