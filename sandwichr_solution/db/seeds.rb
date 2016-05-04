@@ -1,0 +1,11 @@
+Ingredient.create(name: "Bacon", calories: 120)
+Ingredient.create(name: "Tomato", calories: 25)
+Ingredient.create(name: "Lettuce", calories: 3)
+Ingredient.create(name: "Ham", calories: 140)
+Ingredient.create(name: "Turkey", calories: 130)
+Ingredient.create(name: "Mayo", calories: 200)
+Ingredient.create(name: "Arugala", calories: 50)
+
+Sandwich.create(name: "BLT", bread_type: "Ciabatta")
+Sandwich.create(name: "Reuban", bread_type: "Rye")
+Sandwich.create(name: "Grilled Cheese", bread_type: "White")
